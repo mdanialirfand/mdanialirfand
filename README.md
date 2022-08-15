@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdanialirfand
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently majoring in Computer Science at UiTM Raub, Pahang
+- 🌱 I’m currently enrolled majoring in Computer Science at UiTM Raub, Pahang
 - 💞️ I’m looking to collaborate with FAANG companies
 - 📫 How to reach me? You may email me at mdanialirfandaruddin@gmail.com
 
